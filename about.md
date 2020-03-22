@@ -10,7 +10,7 @@ I received my Bachelor's degree in Electronic Information Engineering in 2019 at
 
 ### More Information
 
-Currently, my research interests include Social Network Analysis, Big Data and Internet of Things(IoT). To order to find a SDE job, however, I will also do some projects related to web/app development in the future.
+Currently, my research interests include Social Network Analysis, Big Data and Internet of Things(IoT). In order to find a SDE job, however, I will also do some projects related to web/app development in the future.
 
 As for languages I can speak, my mother language is Chinese mandarin. Since I am studying in America, I also can speak English, though it's not as good as I expected. I am trying to improve my oral English ability. Besides, I could speak a little bit Korea, Japanese, Russian and a tiny bit Uighur language. 
 
