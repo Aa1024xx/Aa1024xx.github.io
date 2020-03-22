@@ -1,10 +1,10 @@
 ---
 layout: post
-title: You're up and running!
+title: Welcome to Xun's homepage!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Hi there,
 
-![_config.yml]({{ site.baseurl }}/images/pic.png)
+My name is Xun Xia, and it's also XX. I’m from Wuhan, China.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
