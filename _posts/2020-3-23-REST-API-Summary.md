@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: REST API!
+title: API
 ---
 
 Here is the link of the project [REST API](https://github.com/Aa1024xx/REST-API "REST-API")
