@@ -1,10 +1,17 @@
+
 ---
 layout: post
 title: A summary of "API Automation: REST Assured + Java, TestNG, Lombok, Google"
 ---
 
-Here is the link of my project[REST API](https://github.com/Aa1024xx/REST-API "REST-API")
-
-</br>In this project, a framework is created. Basic and advanced functions such as GET, POST, JSON and XML Schema, GPath for JSON could be found and used.
+Here is the link of the project[REST API](https://github.com/Aa1024xx/REST-API "REST-API")
 </br>
-</br>Later, I will write a summary of it. 
+In this project:
+ >1. A framework is created. 
+ >2. Basic and advanced functions including GET, POST, JSON and XML Schema, GPath for JSON could be used.
+
+Later, I will write a summary about the procedure of making it. 
+
+![_config.yml]({{ site.baseurl }}/images/2020-3-23.JPG)
+
+</br> ご注意ください
