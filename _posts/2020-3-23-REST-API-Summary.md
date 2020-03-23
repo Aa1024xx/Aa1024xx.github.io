@@ -4,7 +4,7 @@ layout: post
 title: A summary of "API Automation: REST Assured + Java, TestNG, Lombok, Google"
 ---
 
-Here is the link of the project[REST API](https://github.com/Aa1024xx/REST-API "REST-API")
+Here is the link of the project [REST API](https://github.com/Aa1024xx/REST-API "REST-API")
 </br>
 In this project:
  >1. A framework is created. 
