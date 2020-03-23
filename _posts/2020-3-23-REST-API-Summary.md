@@ -1,6 +1,6 @@
 ---
 layout: post
-title: API
+title: API Automation: REST Assured + Java, TestNG, Lombok, Google
 ---
 
 Here is the link of the project [REST API](https://github.com/Aa1024xx/REST-API "REST-API")
@@ -13,4 +13,4 @@ Later, I will write a summary about the procedure of making it.
 
 ![_config.yml]({{ site.baseurl }}/images/2020-3-23.JPG)
 
-</br> ご注意ください
+ご注意ください
