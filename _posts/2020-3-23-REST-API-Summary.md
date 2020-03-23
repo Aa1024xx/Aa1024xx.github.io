@@ -4,7 +4,8 @@ title: REST API
 ---
 
 Here is the link of the project [REST API](https://github.com/Aa1024xx/REST-API "REST-API")
-</br>
+
+This project is about _API Automation: REST Assured + Java, TestNG, Lombok, Google_
 In this project:
  >1. A framework is created. 
  >2. Basic and advanced functions including GET, POST, JSON and XML Schema, GPath for JSON could be used.
