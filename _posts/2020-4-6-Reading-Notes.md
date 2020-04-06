@@ -10,30 +10,30 @@ title: Reading_Don't make me think
 ### Chapter 1. Don't make me think! ###
 
 ##### Reading Notes #####
-The first law of usability is *Don't make users think*, which means to make things self-evident or at least self-explanatory.
+&nbsp;&nbsp;The first law of usability is *Don't make users think*, which means to make things self-evident or at least self-explanatory.
 
-In this chapter, the author lists some things that make users "think" : <br/>
-1. why did they give it that name? 
+&nbsp;&nbsp;In this chapter, the author lists some things that make users "think" : <br/>
+1. why did they give it that name? <br/>
 -- *Web copy often trades off between professionalism and ease of use*
-2. can this button be clicked? 
+2. can this button be clicked? <br/>
 -- *the button needs to explicitly show the user whether it can be clicked*
-3. where am I? 
+3. where am I? <br/>
 -- *clear navigation*
-4. where do I start? 
+4. where do I start? <br/>
 -- *the entrance should be clear*
-5. where did they put XX? 
+5. where did they put XX? <br/>
 -- *Important features should be obvious*
-6. what is the most important thing about this page? 
+6. what is the most important thing about this page? <br/>
 -- *visual center of gravity*
 
-When we visit the Web, each question mark adds to our cognitive load. An experienced designer will notice everything on the web that makes you think. The author also provides another example of booking a flight to prove this point. According to the example, the most important thing, a designer should keep in mind, is to eliminate question marks ballooning in users' mind. The effect should be that users get what it is and how to use it without having to think about it. As designers, if we can't make something self-evident, we need to make it self-explanatory at least.
+&nbsp;&nbsp;When we visit the Web, each question mark adds to our cognitive load. An experienced designer will notice everything on the web that makes you think. The author also provides another example of booking a flight to prove this point. According to the example, the most important thing, a designer should keep in mind, is to eliminate question marks ballooning in users' mind. The effect should be that users get what it is and how to use it without having to think about it. As designers, if we can't make something self-evident, we need to make it self-explanatory at least.
 
-Although people often site <br/>
+&nbsp;&nbsp;Although people often site <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *On the Internet, the competition is always just one click away, 
 so if you frustrate users they will head somewhere else.* <br/>
 
-Actually, people sometimes stick to their initial choice. If the website or the app is unique in market or if users' sunk cost
+&nbsp;&nbsp;Actually, people sometimes stick to their initial choice. If the website or the app is unique in market or if users' sunk cost
 is big enough, this circumstance will appear. It can explain why many apps encourage premium account.
 
 ##### Reading Summary #####
