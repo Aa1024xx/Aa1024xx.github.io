@@ -3,6 +3,8 @@ layout: post
 title: Reading_Don't make me think
 ---
 
+![_config.yml]({{ site.baseurl }}/images/2020-4-6.png)
+
 ## Reading: Don't make me think, A Common Sense Approach to Web Usability, Chapters 1 and 2 ##
 
 ### Chapter 1. Don't make me think! ###
@@ -28,8 +30,8 @@ When we visit the Web, each question mark adds to our cognitive load. An experie
 
 Although people often site <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the Internet, the competition is always just one click away, 
-so if you frustrate users they will head somewhere else. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *On the Internet, the competition is always just one click away, 
+so if you frustrate users they will head somewhere else.* <br/>
 
 Actually, people sometimes stick to their initial choice. If the website or the app is unique in market or if users' sunk cost
 is big enough, this circumstance will appear. It can explain why many apps encourage premium account.
@@ -75,9 +77,8 @@ The advantages of making users "get it":<br/>
 
 ##### Reading Summary #####
 1. When browsing the web, users will choose what they see at first sight, which is interesting and highly recognizable.
-
 2. Users do not read the web page word by word, but scan and browse, and do not spend too much time reading the web page. If users see something they're interested or something recognizable, they will click it.
-
 3. Users while using the web, will not consider how it works, but whether it is easy to use, whether it is easy to understand , all what they want is to get their needs more easily.
-
 4. For a designer, one important point is to let users easily understand your design. It doesn't have to be very complicated.
+
+
