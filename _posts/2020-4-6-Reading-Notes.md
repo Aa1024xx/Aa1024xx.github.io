@@ -4,18 +4,11 @@ title: Reading_Don't make me think
 ---
 
 ## Reading 1: Krug, Chapters 1 and 2 ##
-     
-     <table>
-        <tr align="center">
-            <th>Title</th>
-            <th>Don't make me think, A Common Sense Approach to Web Usability</th>  
-        </tr>
-        <tr align="center">
-            <th>Author</th>
-            <th>Steve Krug</th>
-        </tr>
-     </table>
 
+---
+Title: Don't make me think, A Common Sense Approach to Web Usability
+Author: Steve Krug
+---
 
 ### Chapter 1. Don't make me think! ###
 
@@ -41,7 +34,7 @@ When we visit the Web, each question mark adds to our cognitive load. An experie
 Although people often site <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the Internet, the competition is always just one click away, 
 so if you frustrate users they will head somewhere else. <br/>
-actually, people sometimes stick to their initial choice. If the website or the app is unique in market or if users' sunk cost
+Actually, people sometimes stick to their initial choice. If the website or the app is unique in market or if users' sunk cost
 is big enough, this circumstance will appear. It can explain why many apps encourage premium account.
 
 ##### Reading Summary #####
