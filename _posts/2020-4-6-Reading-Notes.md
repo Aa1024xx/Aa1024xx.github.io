@@ -27,10 +27,10 @@ In this chapter, the author lists some things that make users "think" : <br/>
 When we visit the Web, each question mark adds to our cognitive load. An experienced designer will notice everything on the web that makes you think. The author also provides another example of booking a flight to prove this point. According to the example, the most important thing, a designer should keep in mind, is to eliminate question marks ballooning in users' mind. The effect should be that users get what it is and how to use it without having to think about it. As designers, if we can't make something self-evident, we need to make it self-explanatory at least.
 
 Although people often site <br/>
-<br/>
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; On the Internet, the competition is always just one click away, 
 so if you frustrate users they will head somewhere else. <br/>
-<br/>
+
 Actually, people sometimes stick to their initial choice. If the website or the app is unique in market or if users' sunk cost
 is big enough, this circumstance will appear. It can explain why many apps encourage premium account.
 
