@@ -3,12 +3,7 @@ layout: post
 title: Reading_Don't make me think
 ---
 
-## Reading 1: Krug, Chapters 1 and 2 ##
-
----
-Title: Don't make me think, A Common Sense Approach to Web Usability
-Author: Steve Krug
----
+## Reading: Don't make me think, A Common Sense Approach to Web Usability, Chapters 1 and 2 ##
 
 ### Chapter 1. Don't make me think! ###
 
