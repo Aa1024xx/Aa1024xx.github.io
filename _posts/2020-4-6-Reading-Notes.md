@@ -5,7 +5,7 @@ title: Reading_Don't make me think
 
 ![_config.yml]({{ site.baseurl }}/images/2020-4-6.png)
 
-## Reading: Don't make me think, A Common Sense Approach to Web Usability, Chapters 1 and 2 ##
+## Reading Notes: Don't make me think, A Common Sense Approach to Web Usability, Chapters 1 and 2 ##
 
 ### Chapter 1. Don't make me think! ###
 
